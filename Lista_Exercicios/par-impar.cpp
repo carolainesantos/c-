@@ -11,7 +11,7 @@ main()
 	cin>>num;
 	
 	if (num % 2 == 0) 
-		cout<<"\n N�mero �: Par";
+		cout<<"\n Número é: Par";
 	else 
 		cout<<"\n Número é: Ímpar";
 }

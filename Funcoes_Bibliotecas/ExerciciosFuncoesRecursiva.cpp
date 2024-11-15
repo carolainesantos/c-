@@ -18,7 +18,7 @@ main()
 		cout<<"\t Exemplo Função \e[32;1m[2]\033[0m \n";
 		cout<<"\t Exemplo Função \e[32;1m[3]\033[0m \n";
 		cout<<"\t Exemplo Função \e[32;1m[4]\033[0m \n";
-		cout<<"\t Para encerrar, \e[32;1m[5]\033[0m \n\n";
+		cout<<"\t Para encerrar! \e[32;1m[5]\033[0m \n\n";
 		cout<<" \e[35;1m Escolha uma opção: \033[0m";
 		cin>>opexF1;
 		system("cls");

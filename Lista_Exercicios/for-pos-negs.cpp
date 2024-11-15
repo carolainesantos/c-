@@ -10,7 +10,7 @@
  main()
  {
  	system("chcp 65001");
- 	cout<<"\n Quantos números deseja informar?(só número) ";
+ 	cout<<"\n Quantos números deseja informar?(informe apenas número) ";
  	cin>>qtd;
  	
  	for (i=1;i<=qtd;i++)

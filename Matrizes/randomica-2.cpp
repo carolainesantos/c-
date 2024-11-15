@@ -28,7 +28,7 @@ void gotoxy(int x, int y)
 
 main()
 {
-	system("65001");
+	system("chcp 65001");
 	srand(time(NULL));  // função que inicializa o gerador de números randômicos
     gotoxy(15,3);
     cout<<" MATRIZ GERADA DE FORMA RANDÔMICA ";//Forma aleatoria
@@ -55,7 +55,7 @@ main()
 		lin++; 
     }
        
-    cout<<"\n\n\n Digite um número que deseja procurar na matriz: ";
+    cout<<"\n\n\n Digite um número que deseja procurar na matriz: \n\n";
     cin>>num;
     
     for(i=0;i<TAM;i++) 

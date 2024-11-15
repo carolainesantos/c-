@@ -11,7 +11,7 @@ main ()
 	for(i=1;i<=4;i++) //linha
 	{
 		cout<<"\n         *";
-		for(j=1;j<=8;j++) //coluna
+		for(j=1;j<=5;j++) //coluna
 		{ 
 			if ((i==3) || (i==2)) {
 				cout<<" ";
@@ -24,4 +24,3 @@ main ()
 	} 	
 }
 
-/*cout<<"\n";*/

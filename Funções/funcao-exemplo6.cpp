@@ -11,7 +11,8 @@ int somar4(int num1, int num2); //funçao inline
 }
 
 int resposta,num1,num2;
-main()// serve para começar o programa
+
+main()
 {     
 	system("chcp 65001");
 	cout<<"\n Informe um número: \n";
@@ -21,5 +22,5 @@ main()// serve para começar o programa
 	
 	cout<<"\n A soma dos números é: "<<somar3(num3,num4);
 	cout<<"\n\n\n\n\n";
-}//fim do main()
+}
 

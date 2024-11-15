@@ -1,8 +1,9 @@
 #include <iostream>
 
 using namespace std;
-int i,cont_menor=0;
-float nota,acum_nota=0,media;
+
+int i, cont_menor=0;
+float nota, acum_nota=0,media;
 
 main()
 {

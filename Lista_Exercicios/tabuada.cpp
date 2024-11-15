@@ -11,7 +11,7 @@ int num,i;
 	cout<<"\n\n \t Tábuada \n ";
 	cout<<"\n Digite um número: ";
 	cin>>num;
-	for(i=0;i<=10;i++) //faz a repetiçaõ sem precisar escrever varias vezes o cout<<num<<" x 0 = "<<num * 0<<"\n";
+	for(i=0;i<=10;i++) //faz a repetição sem precisar escrever varias vezes o cout<<num<<" x 0 = "<<num * 0<<"\n";
 	{
 		//pula linha
 		cout<<"\n"<<num<<" * " <<i<<" = " <<num * i; 
